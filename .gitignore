@@ -1,10 +1,10 @@
 venv/
 runs/
-__pycache__/
+dataset/images/train/
+dataset/images/val/
+dataset/labels/train/
+dataset/labels/val/
 *.pt
 *.pth
-*.pyc
-*.jpg
-*.png
-*.jpeg
+__pycache__/
 images/output/

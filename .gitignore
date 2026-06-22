@@ -1,0 +1,10 @@
+venv/
+runs/
+__pycache__/
+*.pt
+*.pth
+*.pyc
+*.jpg
+*.png
+*.jpeg
+images/output/

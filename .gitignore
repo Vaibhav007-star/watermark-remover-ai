@@ -1,10 +1,8 @@
-venv/
+dataset/
 runs/
-dataset/images/train/
-dataset/images/val/
-dataset/labels/train/
-dataset/labels/val/
+venv/
+clean_images/
+images/
 *.pt
 *.pth
 __pycache__/
-images/output/
